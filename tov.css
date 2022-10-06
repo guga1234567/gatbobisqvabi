@@ -1,0 +1,52 @@
+body{
+    background-color:seashell;
+}
+ h1  {
+  text-align: center;
+  font-family: sans-serif;
+  color: rgba(41, 41, 41, 0.816);
+  position: relative;
+  margin-top:80px;
+  
+  text-shadow: -3px 4px 8px  rgba(136, 137, 137, 0.958),
+-3px 4px 8px #ffffff;
+}
+h2{
+  text-align: center;
+  font-family: sans-serif;
+  color:red;
+  position: relative;
+  margin-top:-180px;
+  margin-left: 590px;
+  
+}
+img{
+   align-items: center;
+    cursor: pointer;
+  position:relative;
+  margin-left: 630px;
+  margin-top: 50px;
+  
+  border-radius: 40px;
+  box-shadow: rgba(136, 137, 137, 0.958) 33px 44px 55px;
+}
+.tel{
+  text-transform: uppercase;
+  margin-top: -60px;
+}
+
+.responsive {
+  width:min-content;
+  height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+ 
